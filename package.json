@@ -1,0 +1,22 @@
+{
+  "name": "3n-engineering",
+  "version": "1.0.0",
+  "description": "3N Engineering & Digital Solutions - Professional Website",
+  "type": "module",
+  "scripts": {
+    "dev": "nuxt dev",
+    "build": "nuxt build",
+    "preview": "nuxt preview",
+    "generate": "nuxt generate"
+  },
+  "dependencies": {
+    "nuxt": "^3.9.0",
+    "vue": "^3.3.0"
+  },
+  "devDependencies": {
+    "@nuxt/devtools": "latest",
+    "tailwindcss": "^3.3.0",
+    "postcss": "^8.4.0",
+    "autoprefixer": "^10.4.0"
+  }
+}
